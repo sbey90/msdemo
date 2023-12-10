@@ -1,1 +1,1 @@
-# ms-demo-cloud-config
+# msdemo
